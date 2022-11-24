@@ -2,6 +2,7 @@
     "cSpell.words": [
         "PRNG",
         "arange",
+        "argnums",
         "asarray",
         "astype",
         "bfloat",
@@ -11,6 +12,7 @@
         "fwdwd",
         "gelu",
         "hstack",
+        "hyperparams",
         "jaxtyped",
         "jaxtyping",
         "ndarray",
